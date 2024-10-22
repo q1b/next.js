@@ -275,7 +275,7 @@ impl OutputAsset for CssChunk {
             fragment: None,
             assets,
             modifiers: Vec::new(),
-            part: None,
+            parts: Vec::new(),
             layer: None,
         };
 
